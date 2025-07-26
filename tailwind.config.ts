@@ -63,6 +63,18 @@ export default {
 					ring: 'hsl(var(--sidebar-ring))'
 				}
 			},
+			backgroundImage: {
+				'gradient-cosmic': 'var(--gradient-cosmic)',
+				'gradient-nebula': 'var(--gradient-nebula)',
+				'gradient-aurora': 'var(--gradient-aurora)'
+			},
+			boxShadow: {
+				'cosmic': 'var(--shadow-cosmic)',
+				'stellar': 'var(--shadow-stellar)'
+			},
+			transitionTimingFunction: {
+				'cosmic': 'cubic-bezier(0.4, 0, 0.2, 1)'
+			},
 			borderRadius: {
 				lg: 'var(--radius)',
 				md: 'calc(var(--radius) - 2px)',

@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+### [live](https://astropictures.netlify.app/)
 
 **URL**: https://lovable.dev/projects/62204129-0fbc-40f4-9968-4916e023387f
 
